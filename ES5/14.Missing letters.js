@@ -17,8 +17,8 @@ function fearNotLetter(str) {
       return String.fromCharCode(code - 1);
     }
   }
-  var un;
-  return un;
+  var Undefined = void 0;
+  return Undefined;
 }
 
 fearNotLetter('abce');
