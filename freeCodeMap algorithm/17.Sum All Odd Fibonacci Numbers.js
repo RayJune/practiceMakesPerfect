@@ -23,7 +23,6 @@ function sumFibs(num) {
   return result;
 }
 
-
 // method2: mainly show how to use array to cache Fib()
 
 function sumFibs(num) {
